@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently learning **JavaScript**
 
-- 💬 Ask me about **Core Java , HTML , CSS , Bootstrap**
+- 💬 Ask me about **Core Java , HTML , CSS , Bootstrap** 
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
