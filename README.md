@@ -26,5 +26,7 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=valentinefernandes&" alt="valentinefernandes" /></p>
 
+--
+
 <h3 align="left">Portfolio/My Work</h3>
 
