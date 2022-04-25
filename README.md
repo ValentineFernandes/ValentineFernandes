@@ -25,3 +25,6 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=valentinefernandes&show_icons=true&locale=en" alt="valentinefernandes" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=valentinefernandes&" alt="valentinefernandes" /></p>
+
+<h3 align="left">Portfolio/My Work</h3>
+
