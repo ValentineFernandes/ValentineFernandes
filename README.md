@@ -10,7 +10,7 @@
 
 - 💬 Ask me about **Core Java , HTML , CSS , Bootstrap** 
 
-- ⚡ Fun fact **In spare time, I play cricket. I even love drawing paintings**
+- ⚡ Fun fact **I enjoy sketching and painting.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -30,5 +30,9 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=valentinefernandes&" alt="valentinefernandes" /></p>
 <hr>
-<h3 align="left">Portfolio/My Work:</h3>
-
+<h3 align="left">Portfolio/My Projects:</h3>
+<a href="https://github.com/ValentineFernandes/PetDog-Complete-Website"><img align="left" width="160px" src="https://github.com/ValentineFernandes/ValentineFernandes/blob/main/Portfolio/img1.jpg" /></a>
+<a href="https://github.com/ValentineFernandes/eFresh-Groceries-Website"><img align="left" width="160px" src="https://github.com/ValentineFernandes/ValentineFernandes/blob/main/Portfolio/img2.jpg" /></a>
+<a href="https://github.com/ValentineFernandes/My-Site"><img align="left" width="160px" src="https://github.com/ValentineFernandes/ValentineFernandes/blob/main/Portfolio/img3.jpg" /></a>
+<a href="https://github.com/ValentineFernandes/Calculator"><img align="left" width="160px" src="https://github.com/ValentineFernandes/ValentineFernandes/blob/main/Portfolio/img4.jpg" /></a>
+<a href="https://github.com/ValentineFernandes/Quiz-Application"><img align="left" width="160px" src="https://github.com/ValentineFernandes/ValentineFernandes/blob/main/Portfolio/img5.jpg" /></a>
