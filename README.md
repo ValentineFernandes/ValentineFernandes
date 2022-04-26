@@ -31,9 +31,8 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=valentinefernandes&" alt="valentinefernandes" /></p>
 <hr>
 <h3 align="left">Portfolio/My Projects:</h3>
-<a href="https://github.com/ValentineFernandes/PetDog-Complete-Website"><img align="left" width="160px" src="https://github.com/ValentineFernandes/ValentineFernandes/blob/main/Portfolio/img1.jpg" /></a>
-<a href="https://github.com/ValentineFernandes/eFresh-Groceries-Website"><img align="left" width="160px" src="https://github.com/ValentineFernandes/ValentineFernandes/blob/main/Portfolio/img2.jpg" /></a>
-<a href="https://github.com/ValentineFernandes/My-Site"><img align="left" width="160px" src="https://github.com/ValentineFernandes/ValentineFernandes/blob/main/Portfolio/img3.jpg" /></a>
-<a href="https://github.com/ValentineFernandes/Calculator"><img align="left" width="160px" src="https://github.com/ValentineFernandes/ValentineFernandes/blob/main/Portfolio/img4.jpg" /></a>
-<br>
-<a align="left" href="https://github.com/ValentineFernandes/Quiz-Application"><img align="left" width="160px" src="https://github.com/ValentineFernandes/ValentineFernandes/blob/main/Portfolio/img5.jpg" /></a>
+<a href="https://github.com/ValentineFernandes/PetDog-Complete-Website"><img align="left" width="300px" src="https://github.com/ValentineFernandes/ValentineFernandes/blob/main/Portfolio/img1.jpg" /></a>
+<a href="https://github.com/ValentineFernandes/eFresh-Groceries-Website"><img align="left" width="300px" src="https://github.com/ValentineFernandes/ValentineFernandes/blob/main/Portfolio/img2.jpg" /></a>
+<a href="https://github.com/ValentineFernandes/My-Site"><img align="left" width="300px" src="https://github.com/ValentineFernandes/ValentineFernandes/blob/main/Portfolio/img3.jpg" /></a>
+<a href="https://github.com/ValentineFernandes/Calculator"><img align="left" width="300px" src="https://github.com/ValentineFernandes/ValentineFernandes/blob/main/Portfolio/img4.jpg" /></a>
+<a href="https://github.com/ValentineFernandes/Quiz-Application"><img align="left" width="300px" src="https://github.com/ValentineFernandes/ValentineFernandes/blob/main/Portfolio/img5.jpg" /></a>
