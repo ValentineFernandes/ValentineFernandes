@@ -30,7 +30,7 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=valentinefernandes&show_icons=true&locale=en" alt="valentinefernandes" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=valentinefernandes&" alt="valentinefernandes" /></p>
-<p><img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=valentinefernandes&theme=github" /></p>
+<p><img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=valentinefernandes&theme=github" /></p>
 <hr>
 <h3 align="left">Portfolio/My Projects:</h3>
 <a href="https://github.com/ValentineFernandes/PetDog-Complete-Website"><img align="left" width="200px" src="https://github.com/ValentineFernandes/ValentineFernandes/blob/main/Portfolio/img1.jpg" /></a>
