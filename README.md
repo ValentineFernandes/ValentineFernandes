@@ -34,7 +34,7 @@
 <p><img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=valentinefernandes&theme=github" /></p>
 <hr>
 <h3 align="left">Portfolio/My Projects:</h3>
-<a href="https://github.com/ValentineFernandes/PetDog-Complete-Website"><img align="left" width="200px" src="https://github.com/ValentineFernandes/ValentineFernandes/blob/main/Portfolio/img1.jpg" /></a>
+<a href="https://github.com/ValentineFernandes/PetDog-Complete-Website"><img align="left" width="200px" src="https://github.com/ValentineFernandes/ValentineFernandes/blob/main/Portfolio/img1.jpg" /> </a>
 <a href="https://github.com/ValentineFernandes/eFresh-Groceries-Website"><img align="left" width="200px" src="https://github.com/ValentineFernandes/ValentineFernandes/blob/main/Portfolio/img2.jpg" /></a>
 <a href="https://github.com/ValentineFernandes/My-Site"><img align="left" width="200px" src="https://github.com/ValentineFernandes/ValentineFernandes/blob/main/Portfolio/img3.jpg" /></a>
 <a href="https://github.com/ValentineFernandes/Calculator"><img align="left" width="200px" src="https://github.com/ValentineFernandes/ValentineFernandes/blob/main/Portfolio/img4.jpg" /></a>
