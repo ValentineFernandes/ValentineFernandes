@@ -39,5 +39,3 @@
 <a href="https://github.com/ValentineFernandes/My-Site"><img align="left" width="200px" src="https://github.com/ValentineFernandes/ValentineFernandes/blob/main/Portfolio/img3.jpg" /></a>
 <a href="https://github.com/ValentineFernandes/Calculator"><img align="left" width="200px" src="https://github.com/ValentineFernandes/ValentineFernandes/blob/main/Portfolio/img4.jpg" /></a>
 <a href="https://github.com/ValentineFernandes/Quiz-Application"><img width="200px" src="https://github.com/ValentineFernandes/ValentineFernandes/blob/main/Portfolio/img5.jpg" /></a>
-
-
