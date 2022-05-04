@@ -4,11 +4,11 @@
 <img align="right" alt="Coding" width="400" src="https://qph.fs.quoracdn.net/main-qimg-fa7b4bdc3b2f73e749e5c2c646d4ae13"> 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=valentinefernandes&label=Profile%20views&color=0e75b6&style=flat" alt="valentinefernandes" /> </p>
 
-- 🔭 I’m currently working on **eFresh-Groceries-Website**
+- 🔭 I’m currently working on **PetDog Complete Website**
 
-- 🌱 I’m currently learning **JavaScript**
+- 🌱 I’m currently learning **React JS**
 
-- 💬 Ask me about **Core Java , HTML , CSS , Bootstrap** 
+- 💬 Ask me about **Core Java , HTML , CSS , Bootstrap, SQL** 
 
 - ⚡ Fun fact **I enjoy sketching and painting.**
 
