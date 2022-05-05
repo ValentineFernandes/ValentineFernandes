@@ -45,6 +45,7 @@
         </a>
         <br />
         <p><strong>This is an e-commerce website to buy PetDog online. This is a mobile friendly website.</strong></p>
+      <hr>
       <p align="center">
           
   <a href="https://github.com/ValentineFernandes/PetDog-Complete-Website" target="_blank">
@@ -63,6 +64,7 @@
         </a>
         <br />
         <p><strong>This is a website to buy groceries. This is a mobile friendly website.</strong></p>
+      <hr>
       <p align="center">
           
   <a href="https://github.com/ValentineFernandes/eFresh-Groceries-Website" target="_blank">
@@ -84,6 +86,7 @@
         </a>
       <br />
         <p><strong>This is my website, with a brief introduction. The website is mobile-friendly.</strong> </p>
+      <hr>
       <p align="center">
   <a href="https://github.com/ValentineFernandes/My-Site" target="_blank">
     <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=23555f&style=plastic&logo=github&logo-color=white"/>
@@ -101,6 +104,7 @@
         </a>
         <br />
         <p><strong>This is a website that allows users to perform calculations. The website is mobile-friendly.</strong></p>
+      <hr>
       <p align="center">
           
   <a href="https://github.com/ValentineFernandes/Calculator" target="_blank">
@@ -121,6 +125,7 @@
         </a>
       <br />
         <p><strong>This is a website where users can give quiz. The quiz consists of five questions. Each question has a time limit of 15 seconds. Users have the option to restart the quiz.</strong></p>
+      <hr>
       <p align="center">
   <a href="https://github.com/ValentineFernandes/Quiz-Application" target="_blank">
     <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=23555f&style=plastic&logo=github&logo-color=white"/>
@@ -138,6 +143,7 @@
         </a>
         <br />
         <p><strong>This is a simple calculator with a light/dark mode. This calculator is designed in the neumorphism style. Users can perform simple calculations.</strong></p>
+      <hr>
       <p align="center">
           
   <a href="https://github.com/ValentineFernandes/calculator-light-dark-mode" target="_blank">
