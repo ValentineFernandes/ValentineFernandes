@@ -136,7 +136,7 @@
           <img src="https://github.com/ValentineFernandes/ValentineFernandes/blob/main/Portfolio/img4.jpg" width="100%" alt="Calculator"/>
         </a>
         <br />
-        <p><strong>This is a simple calculator website.</strong></p>
+        <p><strong>This is a calculator website where user can perform calculations.</strong></p>
       <p align="left">
         <strong> Technologies used </strong>
         <br/>
