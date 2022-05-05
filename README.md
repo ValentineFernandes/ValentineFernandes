@@ -33,9 +33,123 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=valentinefernandes&" alt="valentinefernandes" /></p>
 <p><img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=valentinefernandes&theme=github" /></p>
 <hr>
-<h3 align="left">Portfolio/My Projects:</h3>
-<a href="https://github.com/ValentineFernandes/PetDog-Complete-Website"><img align="left" width="200px" src="https://github.com/ValentineFernandes/ValentineFernandes/blob/main/Portfolio/img1.jpg" /> </a>
-<a href="https://github.com/ValentineFernandes/eFresh-Groceries-Website"><img align="left" width="200px" src="https://github.com/ValentineFernandes/ValentineFernandes/blob/main/Portfolio/img2.jpg" /></a>
-<a href="https://github.com/ValentineFernandes/My-Site"><img align="left" width="200px" src="https://github.com/ValentineFernandes/ValentineFernandes/blob/main/Portfolio/img3.jpg" /></a>
-<a href="https://github.com/ValentineFernandes/Calculator"><img align="left" width="200px" src="https://github.com/ValentineFernandes/ValentineFernandes/blob/main/Portfolio/img4.jpg" /></a>
-<a href="https://github.com/ValentineFernandes/Quiz-Application"><img width="200px" src="https://github.com/ValentineFernandes/ValentineFernandes/blob/main/Portfolio/img5.jpg" /></a>
+<h1 align="center">Projects</h1>
+<table>
+  
+  <tr>
+    <td width="50%" valign="top">
+      <h3 align="center">PetDog Complete Website</h3>
+        <br />
+        <a target="_blank" href="https://petdogwebsite.netlify.app">
+            <img src="https://github.com/ValentineFernandes/ValentineFernandes/blob/main/Portfolio/img1.jpg" width="100%" alt="PetDog Complete Website"/>
+        </a>
+        <br />
+        <p><strong>This is an e-commerce website to buy PetDog online. This is a mobile friendly website.</strong></p>
+      <p align="center">
+          
+  <a href="https://github.com/ValentineFernandes/PetDog-Complete-Website" target="_blank">
+    <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=23555f&style=plastic&logo=github&logo-color=white"/>
+  </a>  
+  <a href="https://petdogwebsite.netlify.app" target="_blank">
+    <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=cdf998&style=plastic&logo=wordpress&logo-color=white"/>
+  </a>
+      </p>
+    </td>
+    <td width="50%" valign="top">
+      <h3 align="center">eFresh Groceries Website</h3>
+        <br />
+      <a target="_blank" href="https://efreshgroceries.netlify.app">
+            <img src="https://github.com/ValentineFernandes/ValentineFernandes/blob/main/Portfolio/img2.jpg" width="100%"  alt="eFresh Groceries Website"/>
+        </a>
+        <br />
+        <p><strong>This is a website to buy groceries. This is a mobile friendly website.</strong></p>
+      <p align="center">
+          
+  <a href="https://github.com/ValentineFernandes/eFresh-Groceries-Website" target="_blank">
+    <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=23555f&style=plastic&logo=github&logo-color=white"/>
+  </a>
+  <a href="https://efreshgroceries.netlify.app" target="_blank">
+    <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=cdf998&style=plastic&logo=wordpress&logo-color=white"/>
+  </a>
+      </p>
+    </td>
+  </tr>
+  
+  <tr>
+    <td width="50%" valign="top">
+      <h3 align="center">My Site</h3>
+      <br />
+        <a target="_blank" href="https://mysiteapp.netlify.app">
+          <img src="https://github.com/ValentineFernandes/ValentineFernandes/blob/main/Portfolio/img3.jpg" width="100%" alt="My Site"/>
+        </a>
+      <br />
+        <p><strong>This is my website, with a brief introduction. The website is mobile-friendly.</strong> </p>
+      <p align="center">
+  <a href="https://github.com/ValentineFernandes/My-Site" target="_blank">
+    <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=23555f&style=plastic&logo=github&logo-color=white"/>
+  </a>
+  <a href="https://mysiteapp.netlify.app" target="_blank">
+    <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=cdf998&style=plastic&logo=wordpress&logo-color=white"/>
+  </a>
+      </p>
+    </td>
+    <td width="50%" valign="top">
+      <h3 align="center">Calculator</h3>
+        <br />
+        <a target="_blank" href="https://calculatorapplsite.netlify.app">
+          <img src="https://github.com/ValentineFernandes/ValentineFernandes/blob/main/Portfolio/img4.jpg" width="100%" alt="Calculator"/>
+        </a>
+        <br />
+        <p><strong>This is a website that allows users to perform calculations. The website is mobile-friendly.</strong></p>
+      <p align="center">
+          
+  <a href="https://github.com/ValentineFernandes/Calculator" target="_blank">
+    <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=23555f&style=plastic&logo=github&logo-color=white"/>
+  </a>
+  <a href="https://calculatorapplsite.netlify.app" target="_blank">
+    <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=cdf998&style=plastic&logo=wordpress&logo-color=white"/>
+  </a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3 align="center">Quiz Application</h3>
+      <br />
+        <a target="_blank" href="https://quizapplsite.netlify.app">
+          <img src="https://github.com/ValentineFernandes/ValentineFernandes/blob/main/Portfolio/img5.jpg" width="100%" alt="Quiz Application"/>
+        </a>
+      <br />
+        <p><strong>This is a website where users can give quiz. The quiz consists of five questions. Each question has a time limit of 15 seconds. Users have the option to restart the quiz.</strong></p>
+      <p align="center">
+  <a href="https://github.com/ValentineFernandes/Quiz-Application" target="_blank">
+    <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=23555f&style=plastic&logo=github&logo-color=white"/>
+  </a>
+  <a href="https://quizapplsite.netlify.app" target="_blank">
+    <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=cdf998&style=plastic&logo=wordpress&logo-color=white"/>
+  </a>
+      </p>
+    </td>
+    <td width="50%" valign="top">
+      <h3 align="center">Calculator Light Dark Mode</h3>
+        <br />
+        <a target="_blank" href="https://calculatorlightdarkmode.netlify.app">
+          <img src="https://github.com/ValentineFernandes/ValentineFernandes/blob/main/Portfolio/img6.jpg" width="100%" alt="Matching Cards"/>
+        </a>
+        <br />
+        <p><strong>This is a simple calculator with a light/dark mode. This calculator is designed in the neumorphism style. Users can perform simple calculations.</strong></p>
+      <p align="center">
+          
+  <a href="https://github.com/ValentineFernandes/calculator-light-dark-mode" target="_blank">
+    <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=23555f&style=plastic&logo=github&logo-color=white"/>
+  </a>
+  <a href="https://calculatorlightdarkmode.netlify.app" target="_blank">
+    <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=cdf998&style=plastic&logo=wordpress&logo-color=white"/>
+  </a>
+      </p>
+    </td>
+  </tr>
+</table>
+
+
+
