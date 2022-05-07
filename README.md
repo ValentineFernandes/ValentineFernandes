@@ -8,8 +8,6 @@
 
 - 🌱 I’m currently learning **React JS**
 
-- 👯 I’m looking to collaborate on **efresh Groceries Website**
-
 - 💬 Ask me about **Core Java , HTML , CSS , Bootstrap, SQL, JavaScript** 
 
 - ⚡ Fun fact **I enjoy sketching and painting.**
