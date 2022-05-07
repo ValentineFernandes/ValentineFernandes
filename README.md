@@ -198,7 +198,7 @@
           <img src="https://github.com/ValentineFernandes/ValentineFernandes/blob/main/Portfolio/img6.jpg" width="100%" alt="Matching Cards"/>
         </a>
         <br />
-        <p><strong>This is a simple calculator with a light/dark mode.</strong></p>
+        <p><strong>This is a calculator with a light/dark mode.</strong></p>
       <p align="left">
         <strong> Technologies used </strong>
         <br/>
