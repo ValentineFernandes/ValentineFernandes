@@ -10,7 +10,7 @@
 
 - 💬 Ask me about **Core Java , HTML , CSS , Bootstrap, SQL, JavaScript** 
 
-- ⚡ Fun fact **I enjoy sketching and painting.**
+- ⚡ Fun fact **I enjoy sketching and painting.** 
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
