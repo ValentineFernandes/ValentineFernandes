@@ -33,7 +33,7 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=valentinefernandes&" alt="valentinefernandes" /></p>
 <p><img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=valentinefernandes&theme=github" /></p>
 <hr>
-<h1 align="center">Projects</h1>
+<h1 align="center">Projects</h1> 
 <table>
   
   <tr>
