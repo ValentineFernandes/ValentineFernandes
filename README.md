@@ -257,7 +257,7 @@
     <td width="50%" valign="top">
       <h3 align="center">eShop Website</h3>
         <br />
-        <a target="_blank" href="#">
+        <a target="_blank" href="http://localhost:8080/shopping-cart/index.jsp">
           <img src="https://github.com/ValentineFernandes/ValentineFernandes/blob/main/Portfolio/eshop1.jpg" width="100%" alt="eShop Website"/>
         </a>
         <br />
@@ -283,7 +283,7 @@
   <a href="https://github.com/ValentineFernandes/eShop-Website" target="_blank">
     <img src="https://img.shields.io/static/v1?label=|&message=CODE&color=05F718&style=plastic&logo=github&logo-color=white"/>
   </a>
-  <a href="#" target="_blank">
+  <a href="http://localhost:8080/shopping-cart/index.jsp" target="_blank">
     <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=82D8F9&style=plastic&logo=google-chrome&logo-color=white"/>
   </a>
       </p>
