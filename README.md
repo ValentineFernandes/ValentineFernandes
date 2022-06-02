@@ -328,7 +328,7 @@
           <img src="https://github.com/ValentineFernandes/ValentineFernandes/blob/main/Portfolio/img9.jpg" width="100%" alt="Dental Website"/>
         </a>
         <br />
-        
+        <br />
         <p><strong>This is a dental clinic website.</strong></p>
       <p align="left">
         <strong> Technologies used </strong>
