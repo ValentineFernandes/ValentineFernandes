@@ -33,6 +33,18 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=valentinefernandes&" alt="valentinefernandes" /></p>
 <p><img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=valentinefernandes&theme=github" /></p>
 
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=valentinefernandes&repo=PetDog-Complete-Website)](https://github.com/valentinefernandes/PetDog-Complete-Website)
+<br />
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=valentinefernandes&repo=eFresh-Groceries-Website)](https://github.com/valentinefernandes/eFresh-Groceries-Website)
+<br />
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=valentinefernandes&repo=Quiz-Application)](https://github.com/valentinefernandes/Quiz-Application)
+<br />
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=valentinefernandes&repo=Calculator)](https://github.com/valentinefernandes/Calculator)
+<br />
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=valentinefernandes&repo=My-Site)](https://github.com/valentinefernandes/My-Site)
+<br />
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=valentinefernandes&repo=calculator-light-dark-mode)](https://github.com/valentinefernandes/calculator-light-dark-mode)
+
 <hr>
 <h1 align="center">Projects</h1> 
 <table>
