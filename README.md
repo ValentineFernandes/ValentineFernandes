@@ -44,6 +44,8 @@
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=valentinefernandes&repo=My-Site)](https://github.com/valentinefernandes/My-Site)
 <br />
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=valentinefernandes&repo=calculator-light-dark-mode)](https://github.com/valentinefernandes/calculator-light-dark-mode)
+<br />
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=valentinefernandes&repo=ValentineFernandes)](https://github.com/valentinefernandes/ValentineFernandes)
 
 <hr>
 <h1 align="center">Projects</h1> 
