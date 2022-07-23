@@ -178,7 +178,7 @@
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <h3 align="center">Quiz  Application</h3>
+      <h3 align="center">Quiz <br/> Application</h3>
       <br />
         <a target="_blank" href="https://quizapplsite.netlify.app">
           <img src="https://github.com/ValentineFernandes/ValentineFernandes/blob/main/Portfolio/img5.jpg" width="100%" alt="Quiz Application"/>
@@ -207,7 +207,7 @@
       </p>
     </td>
     <td width="50%" valign="top">
-      <h3 align="center">Calculator Light/Dark</h3>
+      <h3 align="center">Calculator <br/> Light/Dark</h3>
         <br />
         <a target="_blank" href="https://calculatorlightdarkmode.netlify.app">
           <img src="https://github.com/ValentineFernandes/ValentineFernandes/blob/main/Portfolio/img6.jpg" width="100%" alt="Matching Cards"/>
