@@ -30,8 +30,9 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=valentinefernandes&show_icons=true&locale=en" alt="valentinefernandes" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=valentinefernandes&" alt="valentinefernandes" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=valentinefernandes" alt="valentinefernandes" /></p>
 <p><img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=valentinefernandes&theme=github" /></p>
+<p><img align="center" src="https://github-stats-alpha.vercel.app/api?username=valentinefernandes" alt="valentinefernandes" /></p>
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=valentinefernandes&repo=PetDog-Complete-Website)](https://github.com/valentinefernandes/PetDog-Complete-Website)
 <br />
