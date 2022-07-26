@@ -46,6 +46,18 @@
 <br />
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=valentinefernandes&repo=calculator-light-dark-mode)](https://github.com/valentinefernandes/calculator-light-dark-mode)
 <br />
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=valentinefernandes&repo=Portfolio)](https://github.com/ValentineFernandes/Portfolio)
+<br />
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=valentinefernandes&repo=eShop-Website)](https://github.com/ValentineFernandes/eShop-Website)
+<br />
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=valentinefernandes&repo=Interior-Design-Website)](https://github.com/ValentineFernandes/Interior-Design-Website)
+<br />
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=valentinefernandes&repo=Food-Website)](https://github.com/ValentineFernandes/Food-Website)
+<br />
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=valentinefernandes&repo=DentalClinic-Website)](https://github.com/ValentineFernandes/DentalClinic-Website)
+<br />
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=valentinefernandes&repo=UI-Assignment)](https://github.com/ValentineFernandes/UI-Assignment)
+<br />
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=valentinefernandes&repo=ValentineFernandes)](https://github.com/valentinefernandes/ValentineFernandes)
 
 <hr>
