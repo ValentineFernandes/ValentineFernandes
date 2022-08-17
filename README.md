@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on **PetDog Complete Website**    
 
-- 🌱 I’m currently learning **React JS , Angular JS, Python**  
+- 🌱 I’m currently learning **React JS , Angular JS, Python, MongoDB**  
 
 - 💬 Ask me about **Core Java , HTML , CSS , Bootstrap, SQL, JavaScript**    
 
