@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **React JS , Angular JS, Python, MongoDB**  
 
-- 💬 Ask me about **Core Java , HTML , CSS , Bootstrap, SQL, JavaScript**    
+- 💬 Ask me about **Core Java , HTML , CSS , Bootstrap, SQL, JavaScript**     
 
 - ⚡ Fun fact **I enjoy sketching and painting.**  
 
