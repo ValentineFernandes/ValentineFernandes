@@ -1,4 +1,4 @@
-![MasterHead](https://previews.123rf.com/images/artinspiring/artinspiring1909/artinspiring190901325/130769932-concetto-di-banner-web-di-sviluppo-frontend-interfaccia-del-sito-web.jpg)
+<img src="https://github.com/ValentineFernandes/ValentineFernandes/blob/main/Portfolio/7BC99849-E84A-4BE6-90AE-BC06D2C077CF.jpeg">
 <h1 align="center">Hi 👋, I'm Valentine Fernandes</h1>           
 <img align="right" alt="Coding" width="400" src="https://qph.fs.quoracdn.net/main-qimg-fa7b4bdc3b2f73e749e5c2c646d4ae13">   
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=valentinefernandes&label=Profile%20views&color=0e75b6&style=flat" alt="valentinefernandes" /> </p>
